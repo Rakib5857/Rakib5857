@@ -78,8 +78,8 @@ Programmer | Developer | Content Creator | Learner
 <li> 🐍 <i>Trying to learn Python</i></li>
 <li> 🤐 <i>Aim : Become a Software Engineer🙈</i></li>
 
-[website]: https://khalid224466.blogspot.com
-[facebook]: https://www.facebook.com/KHALID.CYBER.404
-[youtube]: https://youtube.com/c/KhaliDTechBd1?utm_source=EKLEiJECCKjOmKnC5IiRIQ
-[instagram]: https://instagram.com/khalid_vau_2009/
-[telegram]: https://t.me/Khalid114433
+[website]: https://rakib5857.blogspot.com
+[facebook]: https://www.facebook.com/Md.Rakib.Hossen.Riyan
+[youtube]: https://youtube.com/channel/UCu---3DFdOhw_YOX9Z5nB4Q
+[instagram]: https://www.instagram.com/md_rakib_hossen_riyan
+[telegram]: https://t.me/rakib5857
