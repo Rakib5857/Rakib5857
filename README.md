@@ -8,12 +8,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'm+Md+Rakib+Hossen;It's+Not+A+Name+Brother;It's+A+Brand;Thank+You+Everyone;❤️Love+You+All❤️)](https://git.io/typing-svg)
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESH-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-<h1 align="center">Hi <img src="https://github.com/KHALID-404/KHALID-404/blob/main/Wave.gif" height="55px" width="55px">, I'm Khalid Shaifullah</h1>
-<h3 align="center">¯\_(ツ)_/¯
+<h1 align="center">Hi i'm<img src="https://github.com/Rakib5857/Rakib5857/blob/dce2e4d1ef2e746a50d65c2b38d07952dc063ab7/img/text.gif"</h1>
+<h3 align="center">
 
-Programmer | Content Creator | Learner
+Programmer | Developer | Content Creator | Learner 
 
-?></h3>
+</h3>
 
 - 🔭 I’m currently working on **python script**
 
@@ -23,14 +23,14 @@ Programmer | Content Creator | Learner
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **khalidshaifullah2009@gmail.com**
+- 📫 How to reach me **rakib5857@gmail.com**
 
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂 i learning everyday that's whey i'm not pro**
 
 ### Connect with me:
 
-[<img align="left" alt="khalid224466.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="KHALID SHAIFULLAH | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
+[<img align="left" alt="rakib5857.blogspot.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Md Rakib Hossen Riyan | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 [<img align="left" alt="KHALID SHAIFULLAH | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="KHALID SHAIFULLAH | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
 [<img align="left" alt="KHALID SHAIFULLAH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
